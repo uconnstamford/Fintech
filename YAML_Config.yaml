@@ -1,0 +1,20 @@
+query_term: Apple
+quantity: 8
+handle: markets
+filename: Csv-1-filename
+start_date: 2006-07-15
+end_date: 2023-04-16
+---
+query_term: Tesla
+quantity: 8
+handle: business
+filename: Csv-2-filename
+start_date: 2006-07-15
+end_date: 2023-04-16
+---
+query_term: Citigroup
+quantity: 8
+handle: Bloomberg
+filename: Csv-3-filename
+start_date: 2006-07-15
+end_date: 2023-04-16
